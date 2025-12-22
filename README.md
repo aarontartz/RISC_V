@@ -3,9 +3,9 @@
 ## Description
 32-bit RISC-V (based on RV32I instruction set) CPU developed in Verilog, based on a Harvard Architecture. Includes simulated Flash ICs (S29AL008J) for instruction memory and SRAM ICs (IS62WV12816BLL) for data memory, complete with decoding logic.
 
-## Diagram
-<img width="980" height="689" alt="image" src="https://github.com/user-attachments/assets/5eba4862-d27c-4058-a040-7cdecee6ec12" />
+## Schematics
 <img width="791" height="641" alt="image" src="https://github.com/user-attachments/assets/edb770ac-dd78-4170-bf6a-03ac11be202b" />
+<img width="980" height="689" alt="image" src="https://github.com/user-attachments/assets/5eba4862-d27c-4058-a040-7cdecee6ec12" />
 
 ## Instructions
 * lw, sw, add, sub, and, or, slt, addi (, andi, ori, slti)
